@@ -1,0 +1,23 @@
+body{
+    background-color: cyan;
+  }
+  
+  h1
+  {
+    font-family: 'Special Elite', fantasy;
+    color:rgb(38, 0, 255);
+    background-color: aqua;
+  }
+  #show_sketch
+  {
+    float:right;
+  }
+  
+  #timer{
+    float: right;
+  }
+  
+  #sketch_to_be_drawn{
+    color: red;
+  }
+    
